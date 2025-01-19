@@ -1,4 +1,4 @@
-# libpng_apng_demo
+# libpng_apng_read_demo
 
 This repository contains a demonstration program that uses the **libpng** library to read and process APNG (Animated PNG) files. The program loads frames from an APNG file and displays them side-by-side in a graphical window using the **wxWidgets** framework.
 
